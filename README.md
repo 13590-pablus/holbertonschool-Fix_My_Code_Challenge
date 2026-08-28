@@ -1,2 +1,1 @@
-# holbertonschool-Fix_My_Code_Challenge
-daw
+# Holbertonschool Fix My Code Challenge
