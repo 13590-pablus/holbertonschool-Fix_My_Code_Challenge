@@ -12,8 +12,9 @@ This project is part of the Holberton School curriculum. The goal of this projec
 
 | Task | File | Description |
 | --- | --- | --- |
-| **0. FizzBuzz** | `challenge/0-fizzbuzz.py` | Fixed the logic issue where numbers divisible by both 3 and 5 (like 15) were printing `Fizz` instead of `FizzBuzz`. |
-| **1. Print square** | `challenge/1-print_square.js` | Fixed `parseInt` radix from 16 to 10 so sizes are parsed in base 10. |
+| **0. FizzBuzz** | `challenge/0-fizzbuzz.py` | Fixed logic for numbers divisible by 15 (`FizzBuzz`). |
+| **1. Print square** | `challenge/1-print_square.js` | Fixed `parseInt` radix from 16 to 10. |
+| **2. Sort** | `challenge/2-sort.rb` | Fixed array insertion index for sorted integers. |
 
 ## Author
 * **13590-pablus** - [gmail-13590@holbertonstudents.com](mailto:gmail-13590@holbertonstudents.com)
